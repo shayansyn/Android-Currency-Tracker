@@ -4,7 +4,7 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2024.04.01-4285F4?style=for-the-badge&logo=jetpackcompose)
 ![Android](https://img.shields.io/badge/Android-Native-3DDC84?style=for-the-badge&logo=android)
 
-A clean, modern, and lightweight Android application for tracking the real-time prices of gold, global currencies, and cryptocurrencies. This project serves as a portfolio piece demonstrating proficiency in modern Android development technologies.
+A clean, modern, and lightweight Android application for tracking the real-time prices of gold, global currencies, and cryptocurrencies.
 
 ---
 
