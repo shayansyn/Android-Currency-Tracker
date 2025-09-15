@@ -1,0 +1,27 @@
+# Compiled code
+build/
+*.apk
+*.aab
+*.ap_
+
+# Local configuration files
+.gradle/
+local.properties
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# Android Studio Generated Files
+captures/
+.externalNativeBuild/
+.cxx/

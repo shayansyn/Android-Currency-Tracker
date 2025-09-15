@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- تم اصلی برنامه -->
+    <style name="Theme.GoldApp" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- تم مخصوص SplashScreen -->
+    <style name="Theme.GoldApp.Splash" parent="Theme.SplashScreen">
+        <!-- پس‌زمینه splash -->
+        <item name="windowSplashScreenBackground">@color/black</item>
+
+        <!-- آیکون یا لوگوی برنامه -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/img_splash</item>
+
+        <!-- رنگ آیکون اختیاری -->
+<!--        <item name="windowSplashScreenIconBackgroundColor">@color/white</item>-->
+
+        <!-- بعد از splash، اپ روی کدوم تم بیاد -->
+        <item name="postSplashScreenTheme">@style/Theme.GoldApp</item>
+    </style>
+</resources>
