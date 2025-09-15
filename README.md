@@ -16,6 +16,8 @@ A simple, tab-based UI allows users to quickly switch between different asset cl
 | :---: | :---: | :---: |
 | <img src="screenshots/screen_gold.jpg" width="220"/> | <img src="screenshots/screen_currency.jpg" width="220"/> | <img src="screenshots/screen_crypto.jpg" width="220"/> |
 
+*(Note: The user interface is presented in Persian.)*
+
 ---
 
 ## 🌟 Key Features
